@@ -1,0 +1,14 @@
+{
+  "name": "@rayuse/lint",
+  "version": "0.0.1",
+  "description": "规则",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "lint",
+    "rules"
+  ],
+  "author": "ray",
+  "license": "MIT"
+}
