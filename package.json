@@ -1,14 +1,17 @@
 {
   "name": "@rayuse/lint",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "规则",
+  "private": true,
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "lint",
     "rules"
   ],
   "author": "ray",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^5.1.8"
+  }
 }
