@@ -2,7 +2,6 @@
   "name": "@rayuse/lint",
   "version": "1.0.0",
   "description": "规则",
-  "private": true,
   "main": "index.js",
   "scripts": {
     "bootstrap": "lerna bootstrap",
