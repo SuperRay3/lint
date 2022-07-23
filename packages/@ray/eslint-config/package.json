@@ -1,6 +1,6 @@
 {
   "name": "@rayuse/eslint-config-ray",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "eslint config ray",
   "main": "index.js",
   "keywords": [
