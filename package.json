@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "规则",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "clean": "lerna run clean",
