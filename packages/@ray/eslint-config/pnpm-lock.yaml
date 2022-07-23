@@ -21,10 +21,10 @@ specifiers:
   rimraf: ^3.0.2
 
 dependencies:
+  '@babel/core': 7.18.9
   eslint-config-taro: 3.4.14_454u7sltq2wfyzqnoclqps3oeu
 
 devDependencies:
-  '@babel/core': 7.18.9
   '@babel/eslint-parser': 7.18.9_454u7sltq2wfyzqnoclqps3oeu
   '@typescript-eslint/eslint-plugin': 5.30.7_xconv27bia2733zao6ipggqv2i
   '@typescript-eslint/parser': 5.30.7_eslint@8.20.0

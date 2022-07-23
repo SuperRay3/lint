@@ -22,10 +22,10 @@
     "README.md"
   ],
   "dependencies": {
+    "@babel/core": "^7.18.9",
     "eslint-config-taro": "^3.4.14"
   },
   "devDependencies": {
-    "@babel/core": "^7.18.9",
     "@babel/eslint-parser": "^7.18.9",
     "@typescript-eslint/eslint-plugin": "^5.30.7",
     "@typescript-eslint/parser": "^5.30.7",
@@ -46,5 +46,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "aae11909bca8f424baebacab9fafd23104e94eea"
+  "gitHead": "5007a972245ff2c3d3b024d8616063dfedafff48"
 }
