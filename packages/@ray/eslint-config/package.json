@@ -27,7 +27,8 @@
     "@typescript-eslint/parser": "^2.33.0",
     "eslint-config-taro": "3.2.10",
     "eslint-plugin-react": "^7.8.2",
-    "eslint-plugin-react-hooks": "^4.2.0"
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-vue": "^9.2.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.18.9",
