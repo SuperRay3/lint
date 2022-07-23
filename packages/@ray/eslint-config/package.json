@@ -16,6 +16,7 @@
     "eslint-config-taro": "^3.4.14"
   },
   "devDependencies": {
+    "@babel/core": "^7.18.9",
     "@babel/eslint-parser": "^7.18.9",
     "@typescript-eslint/eslint-plugin": "^5.30.7",
     "@typescript-eslint/parser": "^5.30.7",
@@ -36,5 +37,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "a923c2c7aa43f7153dcdc96dcca579835df70c0a"
+  "gitHead": "a60159d56639cba42cdeb47d634613cca158919b"
 }
