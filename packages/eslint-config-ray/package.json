@@ -31,5 +31,8 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-standard": "^5.0.0",
     "eslint-plugin-vue": "^9.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
