@@ -1,5 +1,5 @@
 {
-  "name": "@rayuse/lint",
+  "name": "root",
   "version": "1.0.0",
   "description": "规则",
   "main": "index.js",
