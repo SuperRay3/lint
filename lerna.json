@@ -1,6 +1,6 @@
 {
   "packages": [
-    "packages/*"
+    "packages/eslint-config-ray"
   ],
   "useNx": false,
   "version": "0.0.0"
