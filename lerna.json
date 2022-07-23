@@ -1,7 +1,7 @@
 {
   "packages": [
-    "packages/eslint-config-ray"
+    "packages/ray/eslint-config"
   ],
   "useNx": false,
-  "version": "0.1.0"
+  "version": "independent"
 }
