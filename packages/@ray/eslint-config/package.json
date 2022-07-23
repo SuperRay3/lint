@@ -12,6 +12,15 @@
   "scripts": {},
   "author": "ray",
   "license": "ISC",
+  "files": [
+    "base.js",
+    "index.js",
+    "taro.js",
+    "react.js",
+    "vue.js",
+    "package.json",
+    "README.md"
+  ],
   "dependencies": {
     "eslint-config-taro": "^3.4.14"
   },
@@ -37,5 +46,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "a60159d56639cba42cdeb47d634613cca158919b"
+  "gitHead": "aae11909bca8f424baebacab9fafd23104e94eea"
 }
