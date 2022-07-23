@@ -17,6 +17,7 @@ specifiers:
   eslint-plugin-react-hooks: ^4.6.0
   eslint-plugin-standard: ^5.0.0
   eslint-plugin-vue: ^9.2.0
+  rimraf: ^3.0.2
 
 dependencies:
   eslint-config-taro: 3.4.14_eslint@8.20.0
@@ -37,6 +38,7 @@ devDependencies:
   eslint-plugin-react-hooks: 4.6.0_eslint@8.20.0
   eslint-plugin-standard: 5.0.0_eslint@8.20.0
   eslint-plugin-vue: 9.2.0_eslint@8.20.0
+  rimraf: 3.0.2
 
 packages:
 
