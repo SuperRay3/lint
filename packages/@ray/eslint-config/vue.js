@@ -45,7 +45,6 @@ module.exports = {
       singleline: 10,
       multiline: {
         max: 1,
-        allowFirstLine: false
       }
     }],
     'vue/singleline-html-element-content-newline': 0, // 在单行元素的内容前后需要换行符
