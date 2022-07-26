@@ -3,5 +3,10 @@
     "packages/@ray/eslint-config"
   ],
   "useNx": false,
-  "version": "independent"
+  "version": "independent",
+  "command": {
+    "version": {
+      "message": "chore(release): publish %s"
+    }
+  }
 }
