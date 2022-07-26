@@ -1,6 +1,7 @@
 {
   "packages": [
-    "packages/@ray/eslint-config"
+    "packages/@ray/eslint-config",
+    "packages/@ray/stylelint-config"
   ],
   "useNx": false,
   "version": "independent",
