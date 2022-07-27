@@ -1,10 +1,9 @@
 {
   "name": "@rayuse/commitlint-config-ray",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "commitlint config base version",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "commitlint"
   ],
