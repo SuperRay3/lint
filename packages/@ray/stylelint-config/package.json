@@ -9,7 +9,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "stylelint __tests__"
+  },
   "keywords": [
     "stylelint"
   ],
@@ -20,5 +22,6 @@
     "stylelint-config-standard": "^26.0.0",
     "stylelint-order": "^5.0.0",
     "stylelint-scss": "^4.3.0"
-  }
+  },
+  "gitHead": "e571e6f9b48a819adc603c3a0fa7cf52938f05e7"
 }
