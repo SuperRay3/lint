@@ -13,8 +13,10 @@
   "author": "ray",
   "license": "ISC",
   "files": [
+    "rules",
     "base.js",
     "index.js",
+    "next.js",
     "taro.js",
     "react.js",
     "vue.js",
