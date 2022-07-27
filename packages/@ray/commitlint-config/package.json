@@ -1,0 +1,24 @@
+{
+  "name": "@rayuse/commitlint-config-ray",
+  "version": "0.0.1",
+  "description": "commitlint config base version",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "commitlint"
+  ],
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "author": "ray",
+  "license": "ISC",
+  "dependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
